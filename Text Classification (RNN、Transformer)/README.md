@@ -1,3 +1,4 @@
+# 問題討論
 
 ## 1. Text Preprocessing:
 ➢ 本次文字前處裡採用 NLTK 套件，作為 Tokenizer 的工具；且針對空白字
