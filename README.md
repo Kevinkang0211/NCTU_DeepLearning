@@ -1,5 +1,15 @@
 # NCTU_DeepLearning
 
+## HW1 
+
+### HW2-1: FNN from scratch
+
+實作Feedforward Neural Network and Backpropagation(without Keras、Tensorflow、Pytorch) 針對醫療圖像進行分類
+
+### HW2-2: CNN(Convolution Neural Network)
+
+實作Convolutional Neural Network 對交通號誌符號圖像進行分類
+
 ## HW2 
 
 ### HW2-1: RNN and Transformer
